@@ -1,0 +1,29 @@
+.navbar {
+    background-color: aquamarine;
+}
+
+.row {
+    justify-content: space-between;
+
+}
+
+.pagination {
+    justify-content: center;
+    margin: 10px;
+}
+/* .carouselExample {
+
+} */
+
+/* .carouselExample .carousel-inner {
+    max-width: 100%;
+} */
+
+/* .carouselExample .carousel-inner .carousel-item {
+    background-size: cover;
+} */
+
+#carouselExample .carousel-inner .carousel-item img {
+    /* width: 100px; */
+    height: 100vh;
+}
